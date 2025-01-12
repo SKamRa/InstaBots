@@ -1,0 +1,7 @@
+Proxiing -> https://free-proxy-list.net/
+
+Créer un certain nombre de comptes et save les creds pour se reco plus tard (https://tempail.com/fr)
+Fonctionnalité follow (by hashtag)
+Fonctionnalité like (by hashtag)
+Fonctionnalité comment (by hashtag)
+Pouvoir se follow entre bot pour être moins cramé
